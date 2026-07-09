@@ -1,0 +1,1203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-09">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="relacao" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="categoria" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Rayan Aït-Nouri" label="Rayan Aït-Nouri">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Manchester City" label="Manchester City">
+        <attvalues>
+          <attvalue for="0" value="Clube" />
+        </attvalues>
+      </node>
+      <node id="Argélia" label="Argélia">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Jérémy Doku" label="Jérémy Doku">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Bélgica" label="Bélgica">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Joško Gvardiol" label="Joško Gvardiol">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Croácia" label="Croácia">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Mateo Kovačić" label="Mateo Kovačić">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Omar Marmoush" label="Omar Marmoush">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Egito" label="Egito">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="James Trafford" label="James Trafford">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Inglaterra" label="Inglaterra">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Marc Guéhi" label="Marc Guéhi">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Nico O'Reilly" label="Nico O'Reilly">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="John Stones" label="John Stones">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Rayan Cherki" label="Rayan Cherki">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="França" label="França">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Antoine Semenyo" label="Antoine Semenyo">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Gana" label="Gana">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Nathan Aké" label="Nathan Aké">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Países Baixos" label="Países Baixos">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Tijjani Reijnders" label="Tijjani Reijnders">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Erling Haaland" label="Erling Haaland">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Noruega" label="Noruega">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Rodri" label="Rodri">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Espanha" label="Espanha">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Leandro Trossard" label="Leandro Trossard">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Arsenal" label="Arsenal">
+        <attvalues>
+          <attvalue for="0" value="Clube" />
+        </attvalues>
+      </node>
+      <node id="Gabriel Magalhães" label="Gabriel Magalhães">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Brasil" label="Brasil">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Gabriel Martinelli" label="Gabriel Martinelli">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Piero Hincapié" label="Piero Hincapié">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Equador" label="Equador">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Eberechi Eze" label="Eberechi Eze">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Declan Rice" label="Declan Rice">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Noni Madueke" label="Noni Madueke">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Bukayo Saka" label="Bukayo Saka">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="William Saliba" label="William Saliba">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Kai Havertz" label="Kai Havertz">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Alemanha" label="Alemanha">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Martin Ødegaard" label="Martin Ødegaard">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="David Raya" label="David Raya">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Martin Zubimendi" label="Martin Zubimendi">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Mikel Merino" label="Mikel Merino">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Viktor Gyökeres" label="Viktor Gyökeres">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Suécia" label="Suécia">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Lisandro Martínez" label="Lisandro Martínez">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Manchester United" label="Manchester United">
+        <attvalues>
+          <attvalue for="0" value="Clube" />
+        </attvalues>
+      </node>
+      <node id="Argentina" label="Argentina">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Senne Lammens" label="Senne Lammens">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Casemiro" label="Casemiro">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Matheus Cunha" label="Matheus Cunha">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Kobbie Mainoo" label="Kobbie Mainoo">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Marcus Rashford" label="Marcus Rashford">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Amad Diallo" label="Amad Diallo">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Costa do Marfim" label="Costa do Marfim">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Noussair Mazraoui" label="Noussair Mazraoui">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Marrocos" label="Marrocos">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Diogo Dalot" label="Diogo Dalot">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Portugal" label="Portugal">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Bruno Fernandes" label="Bruno Fernandes">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Tyler Fletcher" label="Tyler Fletcher">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Escócia" label="Escócia">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Altay Bayındır" label="Altay Bayındır">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Turquia" label="Turquia">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Manuel Ugarte" label="Manuel Ugarte">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Uruguai" label="Uruguai">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Enzo Fernández" label="Enzo Fernández">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Chelsea" label="Chelsea">
+        <attvalues>
+          <attvalue for="0" value="Clube" />
+        </attvalues>
+      </node>
+      <node id="Mike Penders" label="Mike Penders">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Moisés Caicedo" label="Moisés Caicedo">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Kendry Páez" label="Kendry Páez">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Trevoh Chalobah" label="Trevoh Chalobah">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Reece James" label="Reece James">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Malo Gusto" label="Malo Gusto">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Jorrel Hato" label="Jorrel Hato">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Pedro Neto" label="Pedro Neto">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Mamadou Sarr" label="Mamadou Sarr">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Senegal" label="Senegal">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Nicolas Jackson" label="Nicolas Jackson">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Marc Cucurella" label="Marc Cucurella">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Alexis Mac Allister" label="Alexis Mac Allister">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Liverpool" label="Liverpool">
+        <attvalues>
+          <attvalue for="0" value="Clube" />
+        </attvalues>
+      </node>
+      <node id="Alisson Becker" label="Alisson Becker">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Mohamed Salah" label="Mohamed Salah">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Ibrahima Konaté" label="Ibrahima Konaté">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Florian Wirtz" label="Florian Wirtz">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Wataru Endo" label="Wataru Endo">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Japão" label="Japão">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Virgil van Dijk" label="Virgil van Dijk">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Ryan Gravenberch" label="Ryan Gravenberch">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Cody Gakpo" label="Cody Gakpo">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Alexander Isak" label="Alexander Isak">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Kevin Danso" label="Kevin Danso">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Tottenham Hotspur" label="Tottenham Hotspur">
+        <attvalues>
+          <attvalue for="0" value="Clube" />
+        </attvalues>
+      </node>
+      <node id="Áustria" label="Áustria">
+        <attvalues>
+          <attvalue for="0" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Pedro Porro" label="Pedro Porro">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Lucas Bergvall" label="Lucas Bergvall">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+      <node id="Andy Robertson" label="Andy Robertson">
+        <attvalues>
+          <attvalue for="0" value="Jogador" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Rayan Aït-Nouri" target="Manchester City" id="0">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Rayan Aït-Nouri" target="Argélia" id="1">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="Jérémy Doku" id="2">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="Joško Gvardiol" id="3">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="Mateo Kovačić" id="4">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="Omar Marmoush" id="5">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="James Trafford" id="6">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="Marc Guéhi" id="7">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="Nico O'Reilly" id="8">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="John Stones" id="9">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="Rayan Cherki" id="10">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="Antoine Semenyo" id="11">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="Nathan Aké" id="12">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="Tijjani Reijnders" id="13">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="Erling Haaland" id="14">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester City" target="Rodri" id="15">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Jérémy Doku" target="Bélgica" id="16">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Bélgica" target="Leandro Trossard" id="17">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Bélgica" target="Senne Lammens" id="18">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Bélgica" target="Mike Penders" id="19">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Joško Gvardiol" target="Croácia" id="20">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Croácia" target="Mateo Kovačić" id="21">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Omar Marmoush" target="Egito" id="22">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Egito" target="Mohamed Salah" id="23">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="James Trafford" target="Inglaterra" id="24">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="Marc Guéhi" id="25">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="Nico O'Reilly" id="26">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="John Stones" id="27">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="Eberechi Eze" id="28">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="Declan Rice" id="29">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="Noni Madueke" id="30">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="Bukayo Saka" id="31">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="Kobbie Mainoo" id="32">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="Marcus Rashford" id="33">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="Trevoh Chalobah" id="34">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="Reece James" id="35">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Rayan Cherki" target="França" id="36">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="França" target="William Saliba" id="37">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="França" target="Malo Gusto" id="38">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="França" target="Ibrahima Konaté" id="39">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Antoine Semenyo" target="Gana" id="40">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Nathan Aké" target="Países Baixos" id="41">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Países Baixos" target="Tijjani Reijnders" id="42">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Países Baixos" target="Jorrel Hato" id="43">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Países Baixos" target="Virgil van Dijk" id="44">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Países Baixos" target="Ryan Gravenberch" id="45">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Países Baixos" target="Cody Gakpo" id="46">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Erling Haaland" target="Noruega" id="47">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Noruega" target="Martin Ødegaard" id="48">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Rodri" target="Espanha" id="49">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Espanha" target="David Raya" id="50">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Espanha" target="Martin Zubimendi" id="51">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Espanha" target="Mikel Merino" id="52">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Espanha" target="Marc Cucurella" id="53">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Espanha" target="Pedro Porro" id="54">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Leandro Trossard" target="Arsenal" id="55">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="Gabriel Magalhães" id="56">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="Gabriel Martinelli" id="57">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="Piero Hincapié" id="58">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="Eberechi Eze" id="59">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="Declan Rice" id="60">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="Noni Madueke" id="61">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="Bukayo Saka" id="62">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="William Saliba" id="63">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="Kai Havertz" id="64">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="Martin Ødegaard" id="65">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="David Raya" id="66">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="Martin Zubimendi" id="67">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="Mikel Merino" id="68">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Arsenal" target="Viktor Gyökeres" id="69">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Gabriel Magalhães" target="Brasil" id="70">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Brasil" target="Gabriel Martinelli" id="71">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Brasil" target="Casemiro" id="72">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Brasil" target="Matheus Cunha" id="73">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Brasil" target="Alisson Becker" id="74">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Piero Hincapié" target="Equador" id="75">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Equador" target="Moisés Caicedo" id="76">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Equador" target="Kendry Páez" id="77">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Kai Havertz" target="Alemanha" id="78">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Alemanha" target="Florian Wirtz" id="79">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Viktor Gyökeres" target="Suécia" id="80">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Suécia" target="Alexander Isak" id="81">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Suécia" target="Lucas Bergvall" id="82">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Lisandro Martínez" target="Manchester United" id="83">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Lisandro Martínez" target="Argentina" id="84">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester United" target="Senne Lammens" id="85">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester United" target="Casemiro" id="86">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester United" target="Matheus Cunha" id="87">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester United" target="Kobbie Mainoo" id="88">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester United" target="Marcus Rashford" id="89">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester United" target="Amad Diallo" id="90">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester United" target="Noussair Mazraoui" id="91">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester United" target="Diogo Dalot" id="92">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester United" target="Bruno Fernandes" id="93">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester United" target="Tyler Fletcher" id="94">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester United" target="Altay Bayındır" id="95">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Manchester United" target="Manuel Ugarte" id="96">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Argentina" target="Enzo Fernández" id="97">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Argentina" target="Alexis Mac Allister" id="98">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Amad Diallo" target="Costa do Marfim" id="99">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Noussair Mazraoui" target="Marrocos" id="100">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Diogo Dalot" target="Portugal" id="101">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Portugal" target="Bruno Fernandes" id="102">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Portugal" target="Pedro Neto" id="103">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Tyler Fletcher" target="Escócia" id="104">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Escócia" target="Andy Robertson" id="105">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Altay Bayındır" target="Turquia" id="106">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Manuel Ugarte" target="Uruguai" id="107">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Enzo Fernández" target="Chelsea" id="108">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Chelsea" target="Mike Penders" id="109">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Chelsea" target="Moisés Caicedo" id="110">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Chelsea" target="Kendry Páez" id="111">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Chelsea" target="Trevoh Chalobah" id="112">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Chelsea" target="Reece James" id="113">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Chelsea" target="Malo Gusto" id="114">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Chelsea" target="Jorrel Hato" id="115">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Chelsea" target="Pedro Neto" id="116">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Chelsea" target="Mamadou Sarr" id="117">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Chelsea" target="Nicolas Jackson" id="118">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Chelsea" target="Marc Cucurella" id="119">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Mamadou Sarr" target="Senegal" id="120">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Senegal" target="Nicolas Jackson" id="121">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Alexis Mac Allister" target="Liverpool" id="122">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Liverpool" target="Alisson Becker" id="123">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Liverpool" target="Mohamed Salah" id="124">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Liverpool" target="Ibrahima Konaté" id="125">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Liverpool" target="Florian Wirtz" id="126">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Liverpool" target="Wataru Endo" id="127">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Liverpool" target="Virgil van Dijk" id="128">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Liverpool" target="Ryan Gravenberch" id="129">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Liverpool" target="Cody Gakpo" id="130">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Liverpool" target="Alexander Isak" id="131">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Wataru Endo" target="Japão" id="132">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Kevin Danso" target="Tottenham Hotspur" id="133">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Kevin Danso" target="Áustria" id="134">
+        <attvalues>
+          <attvalue for="1" value="Nacional" />
+        </attvalues>
+      </edge>
+      <edge source="Tottenham Hotspur" target="Pedro Porro" id="135">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Tottenham Hotspur" target="Lucas Bergvall" id="136">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+      <edge source="Tottenham Hotspur" target="Andy Robertson" id="137">
+        <attvalues>
+          <attvalue for="1" value="Profissional" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
