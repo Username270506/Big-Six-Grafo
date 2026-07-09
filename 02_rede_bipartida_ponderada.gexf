@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-09">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="long" />
+      <attribute id="1" title="categoria" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Manchester City" label="Manchester City">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Clube" />
+        </attvalues>
+      </node>
+      <node id="Arsenal" label="Arsenal">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Clube" />
+        </attvalues>
+      </node>
+      <node id="Manchester United" label="Manchester United">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Clube" />
+        </attvalues>
+      </node>
+      <node id="Chelsea" label="Chelsea">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Clube" />
+        </attvalues>
+      </node>
+      <node id="Liverpool" label="Liverpool">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Clube" />
+        </attvalues>
+      </node>
+      <node id="Tottenham Hotspur" label="Tottenham Hotspur">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Clube" />
+        </attvalues>
+      </node>
+      <node id="Argélia" label="Argélia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Bélgica" label="Bélgica">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Croácia" label="Croácia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Egito" label="Egito">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Inglaterra" label="Inglaterra">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="França" label="França">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Gana" label="Gana">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Países Baixos" label="Países Baixos">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Noruega" label="Noruega">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Espanha" label="Espanha">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Brasil" label="Brasil">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Equador" label="Equador">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Alemanha" label="Alemanha">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Suécia" label="Suécia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Argentina" label="Argentina">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Costa do Marfim" label="Costa do Marfim">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Marrocos" label="Marrocos">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Portugal" label="Portugal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Escócia" label="Escócia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Turquia" label="Turquia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Uruguai" label="Uruguai">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Senegal" label="Senegal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Japão" label="Japão">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Áustria" label="Áustria">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Manchester City" target="Argélia" id="0" weight="1" />
+      <edge source="Manchester City" target="Bélgica" id="1" weight="1" />
+      <edge source="Manchester City" target="Croácia" id="2" weight="2" />
+      <edge source="Manchester City" target="Egito" id="3" weight="1" />
+      <edge source="Manchester City" target="Inglaterra" id="4" weight="4" />
+      <edge source="Manchester City" target="França" id="5" weight="1" />
+      <edge source="Manchester City" target="Gana" id="6" weight="1" />
+      <edge source="Manchester City" target="Países Baixos" id="7" weight="2" />
+      <edge source="Manchester City" target="Noruega" id="8" weight="1" />
+      <edge source="Manchester City" target="Espanha" id="9" weight="1" />
+      <edge source="Arsenal" target="Bélgica" id="10" weight="1" />
+      <edge source="Arsenal" target="Brasil" id="11" weight="2" />
+      <edge source="Arsenal" target="Equador" id="12" weight="1" />
+      <edge source="Arsenal" target="Inglaterra" id="13" weight="4" />
+      <edge source="Arsenal" target="França" id="14" weight="1" />
+      <edge source="Arsenal" target="Alemanha" id="15" weight="1" />
+      <edge source="Arsenal" target="Noruega" id="16" weight="1" />
+      <edge source="Arsenal" target="Espanha" id="17" weight="3" />
+      <edge source="Arsenal" target="Suécia" id="18" weight="1" />
+      <edge source="Manchester United" target="Argentina" id="19" weight="1" />
+      <edge source="Manchester United" target="Bélgica" id="20" weight="1" />
+      <edge source="Manchester United" target="Brasil" id="21" weight="2" />
+      <edge source="Manchester United" target="Inglaterra" id="22" weight="2" />
+      <edge source="Manchester United" target="Costa do Marfim" id="23" weight="1" />
+      <edge source="Manchester United" target="Marrocos" id="24" weight="1" />
+      <edge source="Manchester United" target="Portugal" id="25" weight="2" />
+      <edge source="Manchester United" target="Escócia" id="26" weight="1" />
+      <edge source="Manchester United" target="Turquia" id="27" weight="1" />
+      <edge source="Manchester United" target="Uruguai" id="28" weight="1" />
+      <edge source="Chelsea" target="Argentina" id="29" weight="1" />
+      <edge source="Chelsea" target="Bélgica" id="30" weight="1" />
+      <edge source="Chelsea" target="Equador" id="31" weight="2" />
+      <edge source="Chelsea" target="Inglaterra" id="32" weight="2" />
+      <edge source="Chelsea" target="França" id="33" weight="1" />
+      <edge source="Chelsea" target="Países Baixos" id="34" weight="1" />
+      <edge source="Chelsea" target="Portugal" id="35" weight="1" />
+      <edge source="Chelsea" target="Senegal" id="36" weight="2" />
+      <edge source="Chelsea" target="Espanha" id="37" weight="1" />
+      <edge source="Liverpool" target="Argentina" id="38" weight="1" />
+      <edge source="Liverpool" target="Brasil" id="39" weight="1" />
+      <edge source="Liverpool" target="Egito" id="40" weight="1" />
+      <edge source="Liverpool" target="França" id="41" weight="1" />
+      <edge source="Liverpool" target="Alemanha" id="42" weight="1" />
+      <edge source="Liverpool" target="Japão" id="43" weight="1" />
+      <edge source="Liverpool" target="Países Baixos" id="44" weight="3" />
+      <edge source="Liverpool" target="Suécia" id="45" weight="1" />
+      <edge source="Tottenham Hotspur" target="Áustria" id="46" weight="1" />
+      <edge source="Tottenham Hotspur" target="Espanha" id="47" weight="1" />
+      <edge source="Tottenham Hotspur" target="Suécia" id="48" weight="1" />
+      <edge source="Tottenham Hotspur" target="Escócia" id="49" weight="1" />
+    </edges>
+  </graph>
+</gexf>
