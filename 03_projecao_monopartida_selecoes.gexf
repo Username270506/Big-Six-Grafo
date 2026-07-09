@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-09">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="long" />
+      <attribute id="1" title="categoria" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Argélia" label="Argélia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Bélgica" label="Bélgica">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Croácia" label="Croácia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Egito" label="Egito">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Inglaterra" label="Inglaterra">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="França" label="França">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Gana" label="Gana">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Países Baixos" label="Países Baixos">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Noruega" label="Noruega">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Espanha" label="Espanha">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Brasil" label="Brasil">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Equador" label="Equador">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Alemanha" label="Alemanha">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Suécia" label="Suécia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Argentina" label="Argentina">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Costa do Marfim" label="Costa do Marfim">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Marrocos" label="Marrocos">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Portugal" label="Portugal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Escócia" label="Escócia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Turquia" label="Turquia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Uruguai" label="Uruguai">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Senegal" label="Senegal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Japão" label="Japão">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+      <node id="Áustria" label="Áustria">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Seleção" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Argélia" target="Croácia" id="0" weight="1" />
+      <edge source="Argélia" target="Países Baixos" id="1" weight="1" />
+      <edge source="Argélia" target="Noruega" id="2" weight="1" />
+      <edge source="Argélia" target="Inglaterra" id="3" weight="1" />
+      <edge source="Argélia" target="Gana" id="4" weight="1" />
+      <edge source="Argélia" target="Espanha" id="5" weight="1" />
+      <edge source="Argélia" target="Bélgica" id="6" weight="1" />
+      <edge source="Argélia" target="França" id="7" weight="1" />
+      <edge source="Argélia" target="Egito" id="8" weight="1" />
+      <edge source="Bélgica" target="Escócia" id="9" weight="1" />
+      <edge source="Bélgica" target="Croácia" id="10" weight="1" />
+      <edge source="Bélgica" target="Países Baixos" id="11" weight="2" />
+      <edge source="Bélgica" target="Inglaterra" id="12" weight="4" />
+      <edge source="Bélgica" target="Espanha" id="13" weight="3" />
+      <edge source="Bélgica" target="Suécia" id="14" weight="1" />
+      <edge source="Bélgica" target="Equador" id="15" weight="2" />
+      <edge source="Bélgica" target="Egito" id="16" weight="1" />
+      <edge source="Bélgica" target="Marrocos" id="17" weight="1" />
+      <edge source="Bélgica" target="França" id="18" weight="3" />
+      <edge source="Bélgica" target="Brasil" id="19" weight="2" />
+      <edge source="Bélgica" target="Turquia" id="20" weight="1" />
+      <edge source="Bélgica" target="Noruega" id="21" weight="2" />
+      <edge source="Bélgica" target="Argentina" id="22" weight="2" />
+      <edge source="Bélgica" target="Uruguai" id="23" weight="1" />
+      <edge source="Bélgica" target="Alemanha" id="24" weight="1" />
+      <edge source="Bélgica" target="Portugal" id="25" weight="2" />
+      <edge source="Bélgica" target="Gana" id="26" weight="1" />
+      <edge source="Bélgica" target="Senegal" id="27" weight="1" />
+      <edge source="Bélgica" target="Costa do Marfim" id="28" weight="1" />
+      <edge source="Croácia" target="Países Baixos" id="29" weight="1" />
+      <edge source="Croácia" target="Noruega" id="30" weight="1" />
+      <edge source="Croácia" target="Inglaterra" id="31" weight="1" />
+      <edge source="Croácia" target="Gana" id="32" weight="1" />
+      <edge source="Croácia" target="Espanha" id="33" weight="1" />
+      <edge source="Croácia" target="França" id="34" weight="1" />
+      <edge source="Croácia" target="Egito" id="35" weight="1" />
+      <edge source="Egito" target="Países Baixos" id="36" weight="2" />
+      <edge source="Egito" target="Noruega" id="37" weight="1" />
+      <edge source="Egito" target="Argentina" id="38" weight="1" />
+      <edge source="Egito" target="Inglaterra" id="39" weight="1" />
+      <edge source="Egito" target="Alemanha" id="40" weight="1" />
+      <edge source="Egito" target="Suécia" id="41" weight="1" />
+      <edge source="Egito" target="Gana" id="42" weight="1" />
+      <edge source="Egito" target="Espanha" id="43" weight="1" />
+      <edge source="Egito" target="Japão" id="44" weight="1" />
+      <edge source="Egito" target="França" id="45" weight="2" />
+      <edge source="Egito" target="Brasil" id="46" weight="1" />
+      <edge source="Inglaterra" target="Escócia" id="47" weight="1" />
+      <edge source="Inglaterra" target="Países Baixos" id="48" weight="2" />
+      <edge source="Inglaterra" target="Espanha" id="49" weight="3" />
+      <edge source="Inglaterra" target="Suécia" id="50" weight="1" />
+      <edge source="Inglaterra" target="Equador" id="51" weight="2" />
+      <edge source="Inglaterra" target="Marrocos" id="52" weight="1" />
+      <edge source="Inglaterra" target="França" id="53" weight="3" />
+      <edge source="Inglaterra" target="Brasil" id="54" weight="2" />
+      <edge source="Inglaterra" target="Turquia" id="55" weight="1" />
+      <edge source="Inglaterra" target="Noruega" id="56" weight="2" />
+      <edge source="Inglaterra" target="Argentina" id="57" weight="2" />
+      <edge source="Inglaterra" target="Uruguai" id="58" weight="1" />
+      <edge source="Inglaterra" target="Alemanha" id="59" weight="1" />
+      <edge source="Inglaterra" target="Portugal" id="60" weight="2" />
+      <edge source="Inglaterra" target="Gana" id="61" weight="1" />
+      <edge source="Inglaterra" target="Senegal" id="62" weight="1" />
+      <edge source="Inglaterra" target="Costa do Marfim" id="63" weight="1" />
+      <edge source="França" target="Países Baixos" id="64" weight="3" />
+      <edge source="França" target="Espanha" id="65" weight="3" />
+      <edge source="França" target="Equador" id="66" weight="2" />
+      <edge source="França" target="Suécia" id="67" weight="2" />
+      <edge source="França" target="Japão" id="68" weight="1" />
+      <edge source="França" target="Brasil" id="69" weight="2" />
+      <edge source="França" target="Noruega" id="70" weight="2" />
+      <edge source="França" target="Argentina" id="71" weight="2" />
+      <edge source="França" target="Alemanha" id="72" weight="2" />
+      <edge source="França" target="Portugal" id="73" weight="1" />
+      <edge source="França" target="Gana" id="74" weight="1" />
+      <edge source="França" target="Senegal" id="75" weight="1" />
+      <edge source="Gana" target="Países Baixos" id="76" weight="1" />
+      <edge source="Gana" target="Noruega" id="77" weight="1" />
+      <edge source="Gana" target="Espanha" id="78" weight="1" />
+      <edge source="Países Baixos" target="Espanha" id="79" weight="2" />
+      <edge source="Países Baixos" target="Equador" id="80" weight="1" />
+      <edge source="Países Baixos" target="Suécia" id="81" weight="1" />
+      <edge source="Países Baixos" target="Japão" id="82" weight="1" />
+      <edge source="Países Baixos" target="Brasil" id="83" weight="1" />
+      <edge source="Países Baixos" target="Noruega" id="84" weight="1" />
+      <edge source="Países Baixos" target="Argentina" id="85" weight="2" />
+      <edge source="Países Baixos" target="Alemanha" id="86" weight="1" />
+      <edge source="Países Baixos" target="Portugal" id="87" weight="1" />
+      <edge source="Países Baixos" target="Senegal" id="88" weight="1" />
+      <edge source="Noruega" target="Equador" id="89" weight="1" />
+      <edge source="Noruega" target="Alemanha" id="90" weight="1" />
+      <edge source="Noruega" target="Suécia" id="91" weight="1" />
+      <edge source="Noruega" target="Espanha" id="92" weight="2" />
+      <edge source="Noruega" target="Brasil" id="93" weight="1" />
+      <edge source="Espanha" target="Escócia" id="94" weight="1" />
+      <edge source="Espanha" target="Suécia" id="95" weight="2" />
+      <edge source="Espanha" target="Equador" id="96" weight="2" />
+      <edge source="Espanha" target="Brasil" id="97" weight="1" />
+      <edge source="Espanha" target="Argentina" id="98" weight="1" />
+      <edge source="Espanha" target="Alemanha" id="99" weight="1" />
+      <edge source="Espanha" target="Áustria" id="100" weight="1" />
+      <edge source="Espanha" target="Portugal" id="101" weight="1" />
+      <edge source="Espanha" target="Senegal" id="102" weight="1" />
+      <edge source="Brasil" target="Escócia" id="103" weight="1" />
+      <edge source="Brasil" target="Suécia" id="104" weight="2" />
+      <edge source="Brasil" target="Equador" id="105" weight="1" />
+      <edge source="Brasil" target="Marrocos" id="106" weight="1" />
+      <edge source="Brasil" target="Japão" id="107" weight="1" />
+      <edge source="Brasil" target="Turquia" id="108" weight="1" />
+      <edge source="Brasil" target="Argentina" id="109" weight="2" />
+      <edge source="Brasil" target="Uruguai" id="110" weight="1" />
+      <edge source="Brasil" target="Alemanha" id="111" weight="2" />
+      <edge source="Brasil" target="Portugal" id="112" weight="1" />
+      <edge source="Brasil" target="Costa do Marfim" id="113" weight="1" />
+      <edge source="Equador" target="Argentina" id="114" weight="1" />
+      <edge source="Equador" target="Alemanha" id="115" weight="1" />
+      <edge source="Equador" target="Portugal" id="116" weight="1" />
+      <edge source="Equador" target="Suécia" id="117" weight="1" />
+      <edge source="Equador" target="Senegal" id="118" weight="1" />
+      <edge source="Alemanha" target="Argentina" id="119" weight="1" />
+      <edge source="Alemanha" target="Suécia" id="120" weight="2" />
+      <edge source="Alemanha" target="Japão" id="121" weight="1" />
+      <edge source="Suécia" target="Escócia" id="122" weight="1" />
+      <edge source="Suécia" target="Argentina" id="123" weight="1" />
+      <edge source="Suécia" target="Áustria" id="124" weight="1" />
+      <edge source="Suécia" target="Japão" id="125" weight="1" />
+      <edge source="Argentina" target="Escócia" id="126" weight="1" />
+      <edge source="Argentina" target="Marrocos" id="127" weight="1" />
+      <edge source="Argentina" target="Japão" id="128" weight="1" />
+      <edge source="Argentina" target="Turquia" id="129" weight="1" />
+      <edge source="Argentina" target="Uruguai" id="130" weight="1" />
+      <edge source="Argentina" target="Portugal" id="131" weight="2" />
+      <edge source="Argentina" target="Senegal" id="132" weight="1" />
+      <edge source="Argentina" target="Costa do Marfim" id="133" weight="1" />
+      <edge source="Costa do Marfim" target="Escócia" id="134" weight="1" />
+      <edge source="Costa do Marfim" target="Turquia" id="135" weight="1" />
+      <edge source="Costa do Marfim" target="Uruguai" id="136" weight="1" />
+      <edge source="Costa do Marfim" target="Portugal" id="137" weight="1" />
+      <edge source="Costa do Marfim" target="Marrocos" id="138" weight="1" />
+      <edge source="Marrocos" target="Escócia" id="139" weight="1" />
+      <edge source="Marrocos" target="Turquia" id="140" weight="1" />
+      <edge source="Marrocos" target="Uruguai" id="141" weight="1" />
+      <edge source="Marrocos" target="Portugal" id="142" weight="1" />
+      <edge source="Portugal" target="Escócia" id="143" weight="1" />
+      <edge source="Portugal" target="Turquia" id="144" weight="1" />
+      <edge source="Portugal" target="Uruguai" id="145" weight="1" />
+      <edge source="Portugal" target="Senegal" id="146" weight="1" />
+      <edge source="Escócia" target="Turquia" id="147" weight="1" />
+      <edge source="Escócia" target="Uruguai" id="148" weight="1" />
+      <edge source="Escócia" target="Áustria" id="149" weight="1" />
+      <edge source="Turquia" target="Uruguai" id="150" weight="1" />
+    </edges>
+  </graph>
+</gexf>
